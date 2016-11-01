@@ -15,21 +15,20 @@ There are several popular approaches to decision-making, some of which are detai
     * Reduces social hierarchy, as all members' votes are required to progress forward.
     * Increases participation by all members of a group.
     * Imposes a natural limit on risky or controversial changes.
-    are sustainability and deep understanding tack and roles by each member of collective.
     * Prevents minority viewpoints within a group from being overrun.
   * Disadvantages:
     * Extremely time-consuming, as a single dissenter can prevent forward progress.
     * Difficult to overturn previously-made decisions as members who espoused those ideas initially may be unwilling to recant.
     * Can cause social pressure on all participants to reach quicker decisions, paradoxically resulting in some groups speeding too quickly toward decision-making.
-    * Parliamentary Procedure is a highly organized system of decision-making, governed by a fixed set of rules (such as Robert's Rules of Order).
-      * Advantages:
-        * Highly structured set of rules governs discussion, preventing personal attacks and the like from becoming commonplace, and reducing ambiguity.
-        * Generally requires a quorum of members present, to prevent the risk of a clandestine meeting held to push through a small group's agenda.
-        * Majority voting provides a clear, objective way to measure when a decision has been reached when a question is called to a vote.
-      * Disadvantages:
-        * Minority viewpoints can be overridden by votes, leading to a situation where an unscrupulous majority group could seize complete control over the body.
-        * Discussion can become interrupted by the process moving too quickly to a vote.
-        * People may feel less personally invested in the outcome from the other two systems (especially where they voted against the decision that was reached).
+* Parliamentary Procedure is a highly organized system of decision-making, governed by a fixed set of rules (such as Robert's Rules of Order).
+  * Advantages:
+    * Highly structured set of rules governs discussion, preventing personal attacks and the like from becoming commonplace, and reducing ambiguity.
+    * Generally requires a quorum of members present, to prevent the risk of a clandestine meeting held to push through a small group's agenda.
+    * Majority voting provides a clear, objective way to measure when a decision has been reached when a question is called to a vote.
+  * Disadvantages:
+    * Minority viewpoints can be overridden by votes, leading to a situation where an unscrupulous majority group could seize complete control over the body.
+    * Discussion can become interrupted by the process moving too quickly to a vote.
+    * People may feel less personally invested in the outcome from the other two systems (especially where they voted against the decision that was reached).
 
 
 ##References
